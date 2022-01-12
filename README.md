@@ -3,6 +3,6 @@ mysql과 elasticsearch에 대해 동기화하는 작업을 연습하는 저장�
 
 ## 구현 방식
 - Logstash의 logstash-input-jdbc 플러그인 사용
-    - https://www.elastic.co/kr/blog/how-to-keep-elasticsearch-synchronized-with-a-relational-database-using-logstash
+    - [가이드](https://www.elastic.co/kr/blog/how-to-keep-elasticsearch-synchronized-with-a-relational-database-using-logstash)
 - go-mysql-elasticsearch 라이브러리 사용
-    - https://perfectacle.github.io/2017/11/06/mysql-to-elasitcsearch/#%EC%82%AC%EC%A0%84-%EC%84%A4%EC%B9%98-%EC%82%AC%ED%95%AD
+    - [가이드](https://github.com/go-mysql-org/go-mysql-elasticsearch)
